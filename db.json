@@ -30,5 +30,14 @@
          "gender": "Female",
          "birthday": "1969-11-05T13:22:10Z"
       }
-   ]
+   ],
+   "current-song": {
+      "trackId": "1234567890",
+      "name": "Somebody that I used to know",
+      "artist": "Gotye",
+      "album": "Making Mirrors",
+      "albumId": "0987654321",
+      "duration": "255000",
+      "language": "EN"
+   }
 }
