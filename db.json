@@ -2,34 +2,39 @@
    "patients": [
       {
          "id": 1,
-         "name": {
-            "first_name": "Yvon",
-            "last_name": "Swanborough"
-         },
+         "name": "Yvon Swanborough",
          "email": "yswanborough0@odnoklassniki.ru",
          "gender": "Male",
          "birthday": "1954-01-03T16:19:00Z"
       },
       {
          "id": 2,
-         "name": {
-            "first_name": "Isabel",
-            "last_name": "Martindale"
-         },
+         "name": "Isabel Martindale",
          "email": "imartindale1@stanford.edu",
          "gender": "Female",
          "birthday": "2019-02-07T19:23:28Z"
       },
       {
          "id": 3,
-         "name": {
-            "first_name": "Lyndell",
-            "last_name": "Readie"
-         },
+         "name": "Lyndell Readie",
          "email": "lreadie2@foxnews.com",
          "gender": "Female",
          "birthday": "1969-11-05T13:22:10Z"
-      }
+      },
+      {
+         "id": 4,
+         "name": "Marci Geraldo",
+         "email": "mgeraldo1@npr.org",
+         "gender": "Female",
+         "borthday": "1996-02-12T04:51:30Z"
+      },
+      {
+         "id": 5,
+         "name": "Winny Lefridge",
+         "email": "wlefridge2@addthis.com",
+         "gender": "Male",
+         "birthday": "2019-09-23T00:34:28Z"
+       }
    ],
    "current-song": {
       "trackId": "1234567890",
