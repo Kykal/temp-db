@@ -36,7 +36,7 @@
          "birthday": "2019-09-23T00:34:28Z"
        }
    ],
-   "current-song": {
+   "current_song": {
       "trackId": "1234567890",
       "name": "Somebody that I used to know",
       "artist": "Gotye",
