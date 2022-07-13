@@ -1,14 +1,8 @@
 {
-   "xboxController": {
-      "img": "https://pixabay.com/get/ga4c40e2bf0ad0021381923da1bb83fb12a308f0f34385ebfe37576f72e01a1f893f9be7064f545b45f421a66cc07526928167b38df79ad1954833053ffc7f29f_1280.jpg"
-   },
-   "kitGamer": {
-      "img": "https://www.cyberpuerta.mx/img/product/L/CP-NACEBTECHNOLOGY-NA-0934-1.jpg"
-   },
-   "hairDryer": {
-      "img": "https://pixabay.com/get/gce9ef49a10a7ce714f1b097fd8a839bd4c5f9b844de1272bd73d9757b6f4f31fbb0b0399d71ae67ffc1df1aece847b22a8e3f77a058a8445ad5a89cb2095cb74_1280.jpg"
-   },
-   "haircuts": {
-      "img": "https://thevou.com/wp-content/uploads/2021/11/Haircuts-for-Men-thevou.com-High-fade-02.jpg"
-   }
+   "kotlin": [
+      "xboxController": "https://pixabay.com/get/ga4c40e2bf0ad0021381923da1bb83fb12a308f0f34385ebfe37576f72e01a1f893f9be7064f545b45f421a66cc07526928167b38df79ad1954833053ffc7f29f_1280.jpg",
+      "kitGamer": "https://www.cyberpuerta.mx/img/product/L/CP-NACEBTECHNOLOGY-NA-0934-1.jpg",
+      "hairDryer": "https://pixabay.com/get/gce9ef49a10a7ce714f1b097fd8a839bd4c5f9b844de1272bd73d9757b6f4f31fbb0b0399d71ae67ffc1df1aece847b22a8e3f77a058a8445ad5a89cb2095cb74_1280.jpg",
+      "haircuts": "img": "https://thevou.com/wp-content/uploads/2021/11/Haircuts-for-Men-thevou.com-High-fade-02.jpg"
+   ]
 }
